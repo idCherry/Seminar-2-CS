@@ -2,6 +2,6 @@
 
 Console.Write("Введите трехзначное число -> ");
 int num = int.Parse(Console.ReadLine());
-int res = (num % 100) / 10;
+int res = (num / 10) % 10;
 Console.WriteLine($"Вторая цифра числа -> {res}");
 
