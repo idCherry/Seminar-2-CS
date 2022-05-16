@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\学习\Программирование\Seminars\Seminar 2\Task_10\bin\Debug\net6.0\Task_10.exe
+C:\Users\Acer\Desktop\学习\Программирование\Seminars\Seminar 2\Task_10\bin\Debug\net6.0\Task_10.deps.json
+C:\Users\Acer\Desktop\学习\Программирование\Seminars\Seminar 2\Task_10\bin\Debug\net6.0\Task_10.runtimeconfig.json
+C:\Users\Acer\Desktop\学习\Программирование\Seminars\Seminar 2\Task_10\bin\Debug\net6.0\Task_10.dll
+C:\Users\Acer\Desktop\学习\Программирование\Seminars\Seminar 2\Task_10\bin\Debug\net6.0\Task_10.pdb
+C:\Users\Acer\Desktop\学习\Программирование\Seminars\Seminar 2\Task_10\obj\Debug\net6.0\Task_10.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\学习\Программирование\Seminars\Seminar 2\Task_10\obj\Debug\net6.0\Task_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\学习\Программирование\Seminars\Seminar 2\Task_10\obj\Debug\net6.0\Task_10.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\学习\Программирование\Seminars\Seminar 2\Task_10\obj\Debug\net6.0\Task_10.AssemblyInfo.cs
+C:\Users\Acer\Desktop\学习\Программирование\Seminars\Seminar 2\Task_10\obj\Debug\net6.0\Task_10.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\学习\Программирование\Seminars\Seminar 2\Task_10\obj\Debug\net6.0\Task_10.dll
+C:\Users\Acer\Desktop\学习\Программирование\Seminars\Seminar 2\Task_10\obj\Debug\net6.0\refint\Task_10.dll
+C:\Users\Acer\Desktop\学习\Программирование\Seminars\Seminar 2\Task_10\obj\Debug\net6.0\Task_10.pdb
+C:\Users\Acer\Desktop\学习\Программирование\Seminars\Seminar 2\Task_10\obj\Debug\net6.0\Task_10.genruntimeconfig.cache
+C:\Users\Acer\Desktop\学习\Программирование\Seminars\Seminar 2\Task_10\obj\Debug\net6.0\ref\Task_10.dll
