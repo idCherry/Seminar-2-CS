@@ -1,17 +1,11 @@
 ﻿// программа принимает на вход цифру, обозначающую день недели, и проверяет,
 // является ли этот день выходным.
 
-Console.Write("Введите число, соответствующее дню недели -> ");
-int num = int.Parse(Console.ReadLine());
+Console.Write("Введите число дня недели от 1 до 7: ");
+var day = Convert.ToInt32(Console.ReadLine());
+string[] isWeekend = {"нет", "нет", "нет", "нет", "нет", "да", "да"};
+if (day > 0 && day < 8)
+{
+    Console.WriteLine(isWeekend[day - 1]);
+}
 
-while (num < 8) 
-{
-    if (num == 6 || num == 7) Console.WriteLine("Выходной день");
-    else Console.WriteLine("Не выходной день");
-    break;
-}
-while (num > 7) 
-{
-    Console.WriteLine("Нет такого дня недели"); 
-    break;
-}
